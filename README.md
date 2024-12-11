@@ -36,11 +36,10 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourprofile)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/srinathi-k-739236306?)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?style=flat-square&logo=html5&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)
 
 ---
 
-⭐️ **From [Your Name](https://github.com/yourusername)**
+
 
