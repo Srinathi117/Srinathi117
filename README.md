@@ -3,11 +3,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[Your Project Name](https://github.com/yourusername/yourproject)**
+- 🔭 I’m currently working on **.. (https://github.com/yourusername/yourproject)**
 - 🌱 I’m learning Artificial intelligence and data science
-- 👯 I’m looking to collaborate on **[Project/Area]**
-- 💬 Ask me about **[Your Expertise/Topics]**
-- 📫 How to reach me: **[Your Email/LinkedIn]**
+- 👯 I’m looking to collaborate on open source Projects
+- 💬 Ask me about c,java,python,SQL Databases,Machine learning and Deep learning  
+- 📫 How to reach me: srinathi486@gmail.com
 - 😄 Pronouns: **[Your Pronouns]**
 - ⚡ Fun fact: **[Something Interesting About You]**
 
