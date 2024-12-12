@@ -23,7 +23,7 @@ I’m passionate about open-source contributions and love exploring new technolo
 <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/> &nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
 
 ### Social 
-<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png  " alt="linkedin" /> &nbsp;&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail--v1"/>&nbsp;&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png" alt="microsoft-outlook-2019"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/> &nbsp;&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail--v1"/>&nbsp;&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png" alt="microsoft-outlook-2019"/>
 
 
 ---
