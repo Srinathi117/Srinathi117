@@ -16,13 +16,13 @@
 ## Skills
 
 ### Programming Languages
-<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>    <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>    <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>    <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> &nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  &nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>  &nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 
 ### Frontend Development
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>    <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>  &nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 
 ### Database
-<img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>    <img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/> &nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
 
 ### Social 
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>&nbsp;&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail--v1"/>&nbsp;&nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png" alt="microsoft-outlook-2019"/>
