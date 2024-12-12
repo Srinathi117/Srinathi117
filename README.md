@@ -31,7 +31,8 @@
 ---
 
 ## 📊 GitHub Stats
-
+### Leetcode status
+![LeetCode Stats](https://leetcard.jacoblin.cool/srinathi_K?theme=dark&font=Marmelad&ext=contest)
 ### Most Used Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SRINATHI-ENG&layout=compact&theme=radical)
 
