@@ -35,6 +35,12 @@
 
 ![HTML5  CSS](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
+### Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARAVINDH-ENG&layout=compact&theme=radical)
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARAVINDH-ENG&show_icons=true&theme=radical)
+
 ---
 
 
