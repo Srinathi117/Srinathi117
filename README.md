@@ -2,7 +2,7 @@
 I’m passionate about open-source contributions and love exploring new technologies.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **.. (https://github.com/yourusername/yourproject)**
+- 🔭 I’m currently working on .. 
 - 🌱 I’m learning Artificial intelligence and data science
 - 👯 I’m looking to collaborate on open source Projects
 - 💬 Ask me about c,java,python,SQL Databases,Machine learning and Deep learning  
