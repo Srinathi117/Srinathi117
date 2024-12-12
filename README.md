@@ -1,6 +1,5 @@
 # Hi there, I'm Srinathi 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+"I’m passionate about open-source contributions and love exploring new technologies."
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **.. (https://github.com/yourusername/yourproject)**
