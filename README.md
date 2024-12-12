@@ -31,16 +31,13 @@
 ---
 
 ## 📊 GitHub Stats
-![Your Username's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Srinathi GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## 🌟 Featured Projects
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourproject&theme=radical)](https://github.com/yourusername/yourproject)
+![HTML5](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
+
+
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/srinathi-k-739236306?)
