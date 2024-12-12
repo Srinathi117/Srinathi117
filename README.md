@@ -1,5 +1,5 @@
 # Hi there, I'm Srinathi 👋
-"I’m passionate about open-source contributions and love exploring new technologies."
+I’m passionate about open-source contributions and love exploring new technologies.
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **.. (https://github.com/yourusername/yourproject)**
@@ -7,8 +7,7 @@
 - 👯 I’m looking to collaborate on open source Projects
 - 💬 Ask me about c,java,python,SQL Databases,Machine learning and Deep learning  
 - 📫 How to reach me: srinathi486@gmail.com
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[Something Interesting About You]**
+- 😄 Pronouns: Specializes in statistical modeling, machine learning, and data visualization.
 
 ---
 
