@@ -1,8 +1,7 @@
 # Hi there, I'm Srinathi 👋
 I’m passionate about open-source contributions and love exploring new technologies.
 
-## 🚀 About Me
-- 🔭 I’m currently working on .. 
+## 🚀 About Me 
 - 🌱 I’m learning Artificial intelligence and data science
 - 👯 I’m looking to collaborate on open source Projects
 - 💬 Ask me about c,java,python,SQL Databases,Machine learning and Deep learning  
