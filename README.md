@@ -4,9 +4,9 @@ I’m passionate about open-source contributions and love exploring new technolo
 ## 🚀 About Me 
 - 🌱 I’m learning Artificial intelligence and data science
 - 👯 I’m looking to collaborate on open source Projects
-- 💬 Ask me about c,java,python,SQL Databases,Machine learning and Deep learning  
+- 💬 Ask me about C, java, python, SQL Databases, Machine learning and Deep learning  
 - 📫 How to reach me: srinathi486@gmail.com
-- 😄 Pronouns: Specializes in statistical modeling, machine learning, and data visualization.
+- 😄 Pronouns: 
 
 ---
 
