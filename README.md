@@ -1,19 +1,31 @@
 # Hi there, I'm Srinathi 👋
 I’m passionate about open-source contributions and love exploring new technologies.
 
-## 🚀 About Me 
-- 🌱 I’m learning Artificial intelligence and data science
-- 👯 I’m looking to collaborate on open source Projects
-- 💬 Ask me about C, java, python, SQL Databases, Machine learning and Deep learning  
-- 📫 How to reach me: srinathi486@gmail.com
-- 😄 Pronouns: 
+## 👩‍💻 About Me
 
----
+🌱 I’m currently pursuing B.Tech in Artificial Intelligence and Data Science and continuously learning AI, Machine Learning, Deep Learning, NLP, and Computer Vision.
+
+🚀 Aspiring AI & Data Science Engineer with hands-on experience in building real-time AI applications using Python, TensorFlow, PyTorch, OpenCV, and Flask.
+
+🧠 Strong interest in developing scalable, data-driven solutions and intelligent systems for real-world problems.
+
+👯 I’m looking to collaborate on Open Source Projects related to AI, Machine Learning, Deep Learning, and Web-based AI applications.
+
+💬 Ask me about Java, C, Python, SQL Databases, Machine Learning, Deep Learning, NLP, and Computer Vision.
+
+🏆 Secured 12th place in an International Hackathon at SRM Institute of Science and Technology.
+
+🎯 Currently serving as Placement Coordinator (2024–2025) for the AI & DS Association.
+
+📫 How to reach me: srinathi486@gmail.com  
+💼 LinkedIn: srinathi-k-739236306  
+
+😄 Pronouns: She/Her
 
 ## Skills
 
 ### Programming Languages
-<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> &nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  &nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>  &nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>  &nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> &nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>  &nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 
 ### Frontend Development
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>  &nbsp;&nbsp;&nbsp;<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
