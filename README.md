@@ -4,9 +4,13 @@ I’m passionate about open-source contributions and love exploring new technolo
 ## 👩‍💻 About Me
 
 🌱 I’m currently pursuing B.Tech in Artificial Intelligence and Data Science and continuously learning AI, Machine Learning, Deep Learning, NLP, and Computer Vision.
-🚀 Aspiring AI & Data Science Engineer with hands-on experience in building real-time AI applications using Python, TensorFlow, PyTorch, OpenCV, and Flask.
-🧠 Strong interest in developing scalable, data-driven solutions and intelligent systems for real-world problems.
-👯 I’m looking to collaborate on Open Source Projects related to AI, Machine Learning, Deep Learning and Web-based AI applications.
+
+🚀 Aspiring AI & Data Science Engineer with hands-on experience in building real-time AI applications using Python, TensorFlow, PyTorch, OpenCV and Flask.
+
+🧠 Strong interest in developing scalable, data-driven solutions and intelligent systems for real-world problems
+
+👯 I’m looking to collaborate on Open Source Projects related to AI, Machine Learning, Deep Learning and Web-based AI applications
+
 📫 How to reach me: srinathi486@gmail.com  
 💼 LinkedIn: srinathi-k-739236306  
 
